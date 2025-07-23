@@ -14,7 +14,7 @@ Eksplorasi dataset diabetes menggunakan Pandas untuk diskritisasi data dengan me
 - 🔢 **Diskritisasi Equal-Frequency**: Membagi kolom *Glukosa* dan *Tekanan Darah* menjadi kelompok dengan jumlah data yang seimbang.
 - 🧹 **Analisis Distribusi**: Menampilkan batas bin dan distribusi data hasil diskritisasi.
 
-Proyek ini menggunakan Jupyter Notebook (`Diskritisasi_235314099.ipynb`) untuk analisis interaktif dan dataset (`diabetes.csv`). Cocok untuk pemula yang ingin mempelajari teknik diskritisasi data menggunakan Python. 🟢
+Proyek ini menggunakan Jupyter Notebook (`Diskritisasi_235314099.ipynb`) untuk analisis dan dataset (`diabetes.csv`).🟢
 
 ---
 
