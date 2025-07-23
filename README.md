@@ -1,4 +1,4 @@
-# 📝 Analisis_Diskritisasi_Diabetes
+# 📝 Analisis Diskritisasi Diabetes
 
 **Analisis Diskritisasi Data Diabetes dengan Python**  
 Eksplorasi dataset diabetes menggunakan Pandas untuk diskritisasi data dengan metode equal-width dan equal-frequency.
