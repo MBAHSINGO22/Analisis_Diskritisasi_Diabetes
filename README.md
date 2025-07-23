@@ -36,58 +36,6 @@ Analisis_Diskritisasi_Diabetes/
 
 ---
 
-## ▶️ Menjalankan Program
-
-### 1. Kloning Repositori:
-
-```bash
-git clone https://github.com/MBAHSINGO22/Analisis_Diskritisasi_Diabetes.git
-cd Analisis_Diskritisasi_Diabetes
-```
-
-### 2. Pastikan Python Terinstal:
-
-Periksa versi Python:
-
-```bash
-python --version
-```
-
-Jika belum terinstal, unduh dari [python.org](https://www.python.org/).
-
-### 3. Instal Dependensi:
-
-Instal pustaka yang diperlukan dari `requirements.txt`:
-
-```bash
-pip install -r requirements.txt
-```
-
-**Isi `requirements.txt`:**
-```
-pandas
-jupyter
-```
-
-### 4. Jalankan Jupyter Notebook:
-
-```bash
-jupyter notebook
-```
-
-Buka `Diskritisasi_235314099.ipynb` di browser dan jalankan sel-sel untuk melakukan analisis diskritisasi.
-
----
-
-## 🟢 Catatan
-
-- Pastikan file `diabetes.csv` berada di direktori yang sama dengan `Diskritisasi_235314099.ipynb` untuk analisis data.
-- Notebook menampilkan batas bin, data yang didiskritisasi, dan distribusi untuk kolom *Glukosa* dan *Tekanan Darah* menggunakan metode equal-width dan equal-frequency.
-- Tidak ada dependensi eksternal selain Pandas dan Jupyter.
-- Nilai nol dalam dataset (misalnya, pada Tekanan Darah) dapat memengaruhi hasil diskritisasi dan mungkin menunjukkan data yang hilang.
-
----
-
 ## 📈 Contoh Output
 
 **Diskritisasi_235314099.ipynb**
